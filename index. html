@@ -1,0 +1,56 @@
+
+<!DOCTYPE>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Image Links Demo</title>
+
+</head>
+
+<body>
+
+<h1>Image Links</h1>
+
+<p>Click on the images below to navigate to respective profiles.</p>
+
+
+
+<h2>Profile Images:</h2>
+
+
+
+<h3>Tiger</h3>
+
+<a href="https://tse3.mm.bing.net/th?id=OIP.rVgtjcCc5r4xtcwNOfBpjgHaE7&pid=Api&P=0&h=180" target="_blank" width="800" height="800">
+
+<img src="myimage.jpg" alt="tiger" width="200" height="200">
+
+</a>
+
+
+
+<h3>Lion</h3>
+
+<a href="https://tse3.mm.bing.net/th?id=OIP.2GCSsS1HKwRa6qWotlHXHQHaEK&pid=Api&P=0&h=180" target="_blank">
+
+<img src="friendimage.jpg" alt="lion" width="500" height="500">
+
+</a>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
